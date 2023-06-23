@@ -6,5 +6,6 @@
         "italic": true
       }
     }
-  }
+  },
+  "nuxt.isNuxtApp": false
 }

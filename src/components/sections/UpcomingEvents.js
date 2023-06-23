@@ -16,6 +16,12 @@ import UpcomCard from "../layout/UpcomCard";
 
 const upcevents = [
   {
+    title: "Build Club",
+    date: "--/--/2023",
+    img: "poster",
+    link:'https://docs.google.com/forms/d/e/1FAIpQLScR5AP_0U_jWX23I2CZm2sqq3Xm3qHaYsX9HN1oyuqpwe2WEA/viewform?usp=sf_link'
+  },
+  {
     title: "Young Innovators Programs",
     date: "07/06/2023",
     img: "yip",
